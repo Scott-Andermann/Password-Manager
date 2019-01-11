@@ -14,3 +14,4 @@ To speed up usage, file location can be entered into fname variable for autofill
 
 Future improvement:
 Alphabetize password entries
+Drop-down menu for select rather than buttons
